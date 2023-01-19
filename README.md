@@ -8,7 +8,25 @@ This may include:
 - Quizes
 - Exams / Exams Solutions
 
+## Online Resources / Youtube Channels: 📕📺
+
+1. ### Digital Logic Design (DLD)
+   - <a href = "https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm" >Neso Academy<a>
+   - <a href = "https://www.youtube.com/watch?v=O0gtKDu_cJc&list=PLxCzCOWd7aiGmXg4NoX6R31AsC5LeCPHe" >Gate Smashers <a>
+
+2. ### Differential Equations (DE) (Calculus 2)
+   - <a href = "https://www.youtube.com/watch?v=564pn3CaoyQ&list=PLl-gb0E4MII1OxI-BbNkEhuwPHcKxuPSg" > Kimberly Brehm <a>
+   - <a href = "https://www.youtube.com/watch?v=xf-3ATzFyKA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_" > Professor Leonard <a>
+
+3. ### Object Oriented Programming (OOP)
+   - <a href = "https://www.youtube.com/watch?v=j8nAHeVKL08&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL" > Code With Harry <a>
+
+
+<hr>
+
 Its possible that some stuff may be missing.
+
+<hr>
 
 ## How to contribute ? 🤔 
 
